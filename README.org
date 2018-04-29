@@ -2,3 +2,14 @@
 
 * Introduction
 This repo is all configuration files of ~Emacs~ on my *laptop*.
+
+** Content
+
+- [[https://github.com/kypiching/laptop-emacs-config/blob/master/init.el][Emacs Initialize]]
+
+- [[https://github.com/kypiching/laptop-emacs-config/blob/master/e-company.el][Company mode]]
+
+- [[https://github.com/kypiching/laptop-emacs-config/blob/master/e-lua.el][Lua mode]]
+
+- [[https://github.com/kypiching/laptop-emacs-config/blob/master/e-markdown.el][Markdown mode]]
+- [[https://github.com/kypiching/laptop-emacs-config/blob/master/e-yaml.el][YAML mode]]
