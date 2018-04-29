@@ -1,0 +1,4 @@
+#+TITLE: Laptop-Emacs-Config
+
+* Introduction
+This repo is all configuration files of ~Emacs~ on my *laptop*.
